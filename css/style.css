@@ -134,8 +134,12 @@ ul.text-center li a {
     
 }
 
+#stars{
+    background-image: url(../img/stars.svg);
+}
+
 .bg-gray {
-    padding: 50px 0 150px 0;
+    padding: 50px 0 200px 0;
 }
 
 .bg-darkgreen {
