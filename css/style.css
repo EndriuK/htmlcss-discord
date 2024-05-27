@@ -41,15 +41,11 @@ footer {
 
 .col-16 {
     width: calc(100% / 6);
-    border: 1px solid #fff;
-    background-color: aqua;
     height: 500px;
 }
 
 .col-33 {
     width: calc(100% / 6 * 2);
-    border: 1px solid black;
-    background-color: salmon;
 }
 
 .col-40 {
@@ -114,6 +110,60 @@ ul.text-center li a {
     color: #fff;
 }
 
+
+#h3-footer {
+    font-size: 40px;
+    color: purple;
+}
+
+#lista-prodotto {
+    list-style-type: none;
+    line-height: 50px;
+    color: #fff;
+}
+#lista-compagnia {
+    list-style-type: none;
+    line-height: 50px;
+    color: #fff;
+
+}
+
+#lista-risorse {
+    list-style-type: none;
+    line-height: 50px;
+    color: #fff;
+
+}
+
+#lista-norme {
+    list-style-type: none;
+    line-height: 50px;
+    color: #fff;
+
+}
+
+#prodotto {
+    color: purple;
+    font-size: 15px;
+}
+
+#compagnia {
+    color: purple;
+    font-size: 15px;
+
+}
+
+#risorse {
+    color: purple;
+    font-size: 15px;
+    
+}
+
+#norme {
+    color: purple;
+    font-size: 15px;
+}
+
 .bg-jumbotron {
     padding: 50px 0;
     background-image: url("../img/jumbo.png");
@@ -155,7 +205,6 @@ ul.text-center li a {
 }
 
 .bg-lightaqua{
-    background-color: aquamarine;
     padding: 20px 0;
 }
 
@@ -173,8 +222,6 @@ ul.text-center li a {
 }
 
 .box-bottom-footer {
-    background-color: pink;
-    border: 1px dashed black;
     padding: 10px;
 }
 
@@ -217,3 +264,4 @@ p {
     color: black;
     font-size: 45px;
 }
+
