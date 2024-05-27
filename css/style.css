@@ -135,12 +135,19 @@ ul.text-center li a {
 }
 
 .bg-gray {
-    padding: 50px 0;
-    background-color: rgb(170, 169, 169);
+    padding: 50px 0 150px 0;
 }
 
 .bg-darkgreen {
-    background-color: darkgreen;
+    text-align: center;
+}
+
+#button-mac {
+    padding: 10px 20px;
+    color: #fff;
+    background-color: rgb(138, 13, 138);
+    border-radius: 20px;
+    text-decoration: none;
 }
 
 .bg-lightaqua{
@@ -172,6 +179,11 @@ ul.text-center li a {
     color: black;
     border-radius: 20px;
     text-decoration: none;
+}
+
+
+h3 {
+    padding-bottom: 30px;
 }
 
 .btn-white {
