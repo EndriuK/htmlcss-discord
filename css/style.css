@@ -72,8 +72,6 @@ footer {
 
 .col-100 {
     width: 100%;
-    border: 1px solid black;
-    background-color: purple;
     height: 300px;
 }
 
@@ -126,8 +124,18 @@ ul.text-center li a {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    color: #fff;
 }
 
+#title {
+    color: #fff;
+    text-align: center;
+}
+
+#primo-p {
+    text-align: center;
+    
+}
 
 .bg-gray {
     padding: 50px 0;
@@ -171,4 +179,13 @@ ul.text-center li a {
 
 .btn-white {
     background-color: #fff;
+}
+
+.btn-black {
+    background-color: rgb(27, 25, 25);
+    color: #fff;
+}
+
+#primo-p {
+    line-height: 75px;
 }
