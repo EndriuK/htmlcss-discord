@@ -54,15 +54,11 @@ footer {
 
 .col-40 {
     width: 40%;
-    background-color: pink;
-    border: 1px solid black;
     height: 500px;
 }
 
 .col-60 {
     width: 60%;
-    background-color: blue;
-    border: 1px solid black; 
     height: 500px;
 }
 
@@ -130,6 +126,7 @@ ul.text-center li a {
 #title {
     color: #fff;
     text-align: center;
+    font-size: 40px;
 }
 
 #primo-p {
@@ -187,5 +184,19 @@ ul.text-center li a {
 }
 
 #primo-p {
-    line-height: 75px;
+    line-height: 55px;
+    font-size: 24px;
+    text-align: center;
+}
+
+p {
+    line-height: 55px;
+    font-size: 24px;
+    margin-top: 25px;
+
+}
+
+.titoli {
+    color: black;
+    font-size: 45px;
 }
